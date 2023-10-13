@@ -1,1 +1,2 @@
 # Tarea1PIA
+Esta tarea consiste en los pasos básicos a seguir para obtener visibilidad una persona que se está iniciando en el ámbito de la inteligencia artificial. Para ello es necesario tener cuenta Github como portfolio para compartir proyectos realizados y utilizar redes sociales como **Twitter** y **Linkedin** para agregar y seguir perfiles de comunidades, profesionales o expertos en inteligencia artificial o lenguajes de programación como _Python_, _R_ o _C++_.
